@@ -8,11 +8,27 @@ body {
     padding: 0;
 }
 
-.no h1 {
+.no {
+        font-size: 36px;
+    margin-top: 20px;
+    color: #333;
+    background-image: url(35.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.back  {
     font-size: 36px;
     margin-top: 20px;
     color: #333;
+    background-image: url(25.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    
 }
+
 
 .img img {
     width: 200px;
